@@ -1,7 +1,7 @@
-Project Overview:
+**Project Overview:**
 In this project, I was responsible for designing and implementing network infrastructures for both primary and secondary business sites. The goal was to ensure seamless connectivity, robust security, and efficient IP addressing across both locations. This involved developing a detailed IP addressing scheme, configuring network devices, and ensuring secure communication between the sites.
 
-Primary Site:
+**Primary Site:**
 Devices and Configuration:
 
 PCs: 15 workstations connected to a central switch.
@@ -13,10 +13,10 @@ IP Addressing:
 
 Utilized Class C private IP addresses (192.168.1.0/24).
 Detailed IP addressing plan ensuring efficient use of available IPs.
-Network Diagram:
 
 A comprehensive network diagram illustrating the physical and logical layout of the primary site.
-Secondary Site:
+
+**Secondary Site:**
 Devices and Configuration:
 
 PCs: 5 workstations connected to a central switch.
@@ -27,7 +27,7 @@ IP Addressing:
 
 Utilized Class C private IP addresses (192.168.2.0/24).
 A well-structured IP addressing plan specific to the secondary site.
-Network Diagram:
+
 
 A detailed network diagram showing the layout and connections for the secondary site.
 Responsibilities:
